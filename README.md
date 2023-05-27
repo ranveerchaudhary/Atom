@@ -1,8 +1,8 @@
 # Atom
-Atom The Weather App.
+<h3 align = "center"><strong>Atom The Weather App Image.</strong><h3>
 
-<div>
-  <p>Atom is an innovative and comprehensive application
+<div style = "text-align: center;">
+  <p align="justify">Atom is an innovative and comprehensive application
   designed to provide you with accurate weather forecasts and a seamless user experience.
   Atom boasts a responsive and modern user interface, combining the power of HTML,
   CSS, and JavaScript (JQuery) to deliver a visually appealing and intuitive weather
@@ -18,3 +18,9 @@ Atom The Weather App.
   optimal viewing experiences on various devices.
   <p>
 </div>
+  
+##
+
+<br>
+  
+<h1>Contents :rocket:</h1>
