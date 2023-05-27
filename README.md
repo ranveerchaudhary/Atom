@@ -1,2 +1,20 @@
 # Atom
 Atom The Weather App.
+
+<div>
+  <p>Atom is an innovative and comprehensive application
+  designed to provide you with accurate weather forecasts and a seamless user experience.
+  Atom boasts a responsive and modern user interface, combining the power of HTML,
+  CSS, and JavaScript (JQuery) to deliver a visually appealing and intuitive weather
+  application. Atom goes beyond the standard weather apps by offering a unique feature to
+  calculate the weather for the next day. This feature enables users to plan their activities
+  and make informed decisions based on the upcoming weather conditions. By utilizing the
+  reliable and up-to-date data from the OpenWeather API, Atom ensures that you have
+  access to precise information regarding temperature, humidity, and detailed forecasts.
+  The user interface of Atom has been meticulously crafted to provide a user-friendly
+  experience. The design emphasizes a clean and intuitive layout, allowing users to
+  navigate effortlessly and find the information they need with ease. The responsive nature
+  of Atom ensures that the app adapts seamlessly to different screen sizes, providing
+  optimal viewing experiences on various devices.
+  <p>
+</div>
