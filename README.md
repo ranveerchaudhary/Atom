@@ -1,4 +1,4 @@
-# Atom
+# Atom  :partly_sunny:
 <h3 align = "center"><strong>Atom The Weather App Image.</strong><h3>
 
 <div style = "text-align: center;">
