@@ -50,7 +50,7 @@
         <h4><a href = "#engine">Frameworks :mechanical_arm:</a></h4>
       </li>
       <li>
-        <h4><a href = "#prediction">Prediction :eyes:</a></h4>
+        <h4><a href = "#prediction">Prediction :crystal_ball:</a></h4>
       </li>
     </ul>
     </li>
