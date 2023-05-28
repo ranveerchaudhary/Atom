@@ -44,7 +44,7 @@
       <h3><a href = "#engine">The Engine :gear:</a></h3>
       <ul>
       <li>
-        <h4><a href = "#Code">Code :computer:</a></h4>
+        <h4><a href = "#code">Code :computer:</a></h4>
       </li>
       <li>
         <h4><a href = "#engine">Frameworks :mechanical_arm:</a></h4>
