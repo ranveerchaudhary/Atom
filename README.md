@@ -24,3 +24,41 @@
 <br>
   
 <h1>Contents :rocket:</h1>
+<div>
+  <ul>
+    <li>
+    <h3><a href = "#basics">Introduction :page_facing_up:</a></h3>
+    <ul>
+      <li>
+        <h4><a href = "#history">The Problem :thought_balloon:</a></h4>
+      </li>
+      <li>
+        <h4><a href = "#ui">The UI :iphone:</a></h4>
+      </li>
+      <li>
+        <h4><a href = "#recommendations">Next Day Weather Prediction :receipt:</a></h4>
+      </li>
+    </ul>
+    </li>
+    <li>
+      <h3><a href = "#mechanism">The Engine :gear:</a></h3>
+      <ul>
+      <li>
+        <h4><a href = "#algorithm">Code :brain:</a></h4>
+      </li>
+      <li>
+        <h4><a href = "#engine">Frameworks :mechanical_arm:</a></h4>
+      </li>
+      <li>
+        <h4><a href = "#deployment"> :eyes:</a></h4>
+      </li>
+    </ul>
+    </li>
+    <li>
+      <h3><a href = "#contributions">Contributions :anchor:</a></h3>
+    </li>
+    <li>
+      <h3><a href = "#contact">Contact :mailbox_with_mail:<a/></h3>
+    </li>
+  </ul>
+</div>
