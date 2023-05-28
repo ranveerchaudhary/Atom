@@ -30,7 +30,7 @@
     <h3><a href = "#basics">Introduction :page_facing_up:</a></h3>
     <ul>
       <li>
-        <h4><a href = "#history">The Problem :thought_balloon:</a></h4>
+        <h4><a href = "#problem">The Problem :thought_balloon:</a></h4>
       </li>
       <li>
         <h4><a href = "#ui">The UI :iphone:</a></h4>
@@ -44,7 +44,7 @@
       <h3><a href = "#engine">The Engine :gear:</a></h3>
       <ul>
       <li>
-        <h4><a href = "#Code">Code :brain:</a></h4>
+        <h4><a href = "#Code">Code :computer:</a></h4>
       </li>
       <li>
         <h4><a href = "#engine">Frameworks :mechanical_arm:</a></h4>
