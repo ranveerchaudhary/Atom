@@ -36,21 +36,21 @@
         <h4><a href = "#ui">The UI :iphone:</a></h4>
       </li>
       <li>
-        <h4><a href = "#recommendations">Next Day Weather Prediction :receipt:</a></h4>
+        <h4><a href = "#prediction">Next Day Weather Prediction :receipt:</a></h4>
       </li>
     </ul>
     </li>
     <li>
-      <h3><a href = "#mechanism">The Engine :gear:</a></h3>
+      <h3><a href = "#engine">The Engine :gear:</a></h3>
       <ul>
       <li>
-        <h4><a href = "#algorithm">Code :brain:</a></h4>
+        <h4><a href = "#Code">Code :brain:</a></h4>
       </li>
       <li>
         <h4><a href = "#engine">Frameworks :mechanical_arm:</a></h4>
       </li>
       <li>
-        <h4><a href = "#deployment">Prediction :eyes:</a></h4>
+        <h4><a href = "#prediction">Prediction :eyes:</a></h4>
       </li>
     </ul>
     </li>
