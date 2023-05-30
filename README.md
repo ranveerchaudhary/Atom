@@ -58,7 +58,7 @@
       <h3><a href = "#contributions">Contributions :anchor:</a></h3>
     </li>
     <li>
-      <h3><a href = "#contact">Contact :mailbox_with_mail:<a/></h3>
+      <h3><a href = "#contactme">Contact :mailbox_with_mail:<a/></h3>
     </li>
   </ul>
 </div>
