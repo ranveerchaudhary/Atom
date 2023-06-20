@@ -33,7 +33,7 @@
         <h4><a href = "#problem">The Problem :thought_balloon:</a></h4>
       </li>
       <li>
-        <h4><a href = "#ui">The UI :iphone:</a></h4>
+        <h4><a href = "#ui">The Interface :iphone:</a></h4>
       </li>
       <li>
         <h4><a href = "#prediction">Next Day Weather Prediction :receipt:</a></h4>
@@ -71,13 +71,11 @@
 
 ### 1. The Problem :thought_balloon:
 
-<p>he development of Atom prioritized performance and reliability, ensuring that the app
-delivers a seamless experience to users. The efficient use of JavaScript and JQuery
-enables smooth data retrieval and enhances the overall speed and responsiveness of the
-application. Users can rely on Atom to provide timely and accurate weather information
-without any compromise on performance. In conclusion, Atom the Weather App is an
-exceptional weather application that combines modern design, advanced functionality,
-and reliable data sources to keep you informed about weather conditions. With its
-user-friendly interface, precise forecasts, and seamless responsiveness, Atom is the ideal
-choice for staying ahead of changing weather patterns and making informed decisions for
-your day-to-day activities.</p>
+<p>A need for a reliable and accurate weather app has always been present, This is where <strong>Atom</strong> comes. Atoms prioritized performance and reliability, ensuring that the app delivers a seamless experience to users. The efficient use of JavaScript and JQuery enables smooth data retrieval and enhances the overall speed and responsiveness of the application. Users can rely on Atom to provide timely and accurate weather information without any compromise on performance.</p>
+
+<br>
+
+### 2. The Interface :iphone:
+<div>
+  <img src = "">
+</div>
