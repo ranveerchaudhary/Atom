@@ -80,8 +80,6 @@
   <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/cloudy.gif">
   &nbsp
   &nbsp
-  &nbsp
-  &nbsp
   <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/sunny.gif">
   &nbsp
   &nbsp
