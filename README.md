@@ -71,7 +71,7 @@
 
 ### 1. The Problem :thought_balloon:
 
-<p>A need for a reliable and accurate weather app has always been present, This is where <strong>Atom</strong> comes. Atoms prioritized performance and reliability, ensuring that the app delivers a seamless experience to users. The efficient use of JavaScript and JQuery enables smooth data retrieval and enhances the overall speed and responsiveness of the application. Users can rely on Atom to provide timely and accurate weather information without any compromise on performance.</p>
+<p align="justify">A need for a reliable and accurate weather app has always been present, This is where <strong>Atom</strong> comes. Atoms prioritized performance and reliability, ensuring that the app delivers a seamless experience to users. The efficient use of JavaScript and JQuery enables smooth data retrieval and enhances the overall speed and responsiveness of the application. Users can rely on Atom to provide timely and accurate weather information without any compromise on performance.</p>
 
 <br>
 
