@@ -77,10 +77,12 @@
 
 ### 2. The Interface :iphone:
 <div align = "center" style = "display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/screenshot_1.png">
+  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/cloudy.gif">
   &nbsp
   &nbsp
-  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/screenshot_2.png">
+  &nbsp
+  &nbsp
+  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/sunny.gif">
   &nbsp
   &nbsp
 </div>
