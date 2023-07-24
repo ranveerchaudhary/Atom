@@ -1,4 +1,4 @@
-<h1>Atom <img style = "width: 3vw; height: auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/clear-day.svg"></h1>
+<h1>Atom <img style = "width: 60px; height: auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/clear-day.svg"></h1>
 <h3 align = "center"><strong>Atom The Weather App.</strong><h3>
 
 <div style = "text-align: center;">
@@ -89,16 +89,16 @@
 <p align = "justify"> Atom goes beyond the standard weather apps by offering a unique feature to
 calculate the weather for the next day. This feature enables users to plan their activities
 and make informed decisions based on the upcoming weather conditions. The initial plan was to incorporate time-series analysis however due to API constraints, the current implementation involves SMA.</p>
-<!--
+
 <div align = "center" style = "display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/cloudy.gif">
+  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/screenshot_1.png">
   &nbsp
   &nbsp
-  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/sunny.gif">
+  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/screenshot_2.png">
   &nbsp
   &nbsp
 </div>
--->
+
 
 ##
 
