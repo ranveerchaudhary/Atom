@@ -1,0 +1,269 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(0deg, #2a2a9c, #591783);
+    height: 100vh;
+    width: 100vw;
+    touch-action: none;
+    -webkit-overflow-scrolling: none;
+    overflow: hidden;
+    overscroll-behavior: none;
+    margin: 0 auto;
+}
+
+
+#main{
+    background-color: rgb(37, 37, 37);
+    height: 95vh;
+    width: 95vw;
+    border-radius: 3vw;
+    border-style: solid;
+    border-color: black;
+    border-width: 1vw;
+}
+
+#search{
+    position: absolute;
+    right: 17vw;
+    top: 5vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom: 85vh;
+}
+
+#searchbar{
+    height: 4.5vh;
+    width: 70vw;
+    font-size: 4.5vw;
+    font-family: monospace;
+    background-color: black;
+    color: white;
+    border-radius: 3vw;
+    border-width: 0.5vw;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    margin-left: 24vw;
+    padding-left: 4vw;
+}
+
+#search:focus{
+    outline: none;
+    text-decoration: none;
+}
+
+::placeholder{
+    color: rgb(255, 255, 255);
+    outline: none;
+    text-decoration: none;
+}
+
+#execute{
+    height: 6vw;
+    width: 6vw;
+    border-color: white;
+    border-radius: 10vw;
+    border-style: solid;
+    border-width: 0.25vh;
+    border-color: white;
+    background-color: rgb(0, 0, 0);
+    margin-left: -10vw;
+    color: white;
+}
+
+#position{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 10vh;
+    left: 5vw;
+    height: 10vh;
+    width: 100vw;
+}
+
+#marker{
+    height: 48px;
+    width: auto;
+}
+
+#location{
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 7vw;
+    color: white;
+    letter-spacing: 0.5vw;
+}
+
+#weathericon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 36.15vh;
+    width: 94vw;
+    position: absolute;
+    top: 17.4vh;
+    left: 3vw;
+}
+
+#mainicon{
+    height: 90vw;
+    width: auto;
+}
+
+#maininfo{
+    position: absolute;
+    top: 47vh;
+    left: 6vw;
+}
+
+#temp{
+    color:white;
+    font-family: monospace;
+    font-size: 12vw;
+    font-weight: bolder;
+}
+#desc{
+    color:white;
+    font-family: monospace;
+    font-size: 9vw;
+    font-weight: lighter;
+    margin-top: -5vh;
+}
+
+#subinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 67.5vh;
+    left: 5.5vw;
+    height: 17.5vh;
+    width: 88.5vw;
+    background-color: rgb(21, 21, 21);
+    border-radius: 3vw;
+    border-width: 0.5vw;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+}
+
+#precip{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: monospace;
+    font-size: 4.5vw;
+    letter-spacing: 0.2vw;
+    color: white;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 2vh;
+}
+
+#hum{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: monospace;
+    font-size: 4.5vw;
+    letter-spacing: 0.2vw;
+    color: white;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-top: -2vh;
+    margin-bottom: -2vh;
+}
+
+#wind{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: monospace;
+    font-size: 4.5vw;
+    letter-spacing: 0.2vw;
+    color: white;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-bottom: 2vh;
+}
+
+#predict{
+    position: absolute;
+    top: 21.5vh;
+    left: -0.6vw;
+}
+
+#predictbutton{
+    height: 6vh;
+    width: 89.5vw;
+    background-color: #3700AD;
+    border-radius: 3vw;
+    border-width: 0.5vw;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inbutton{
+    filter: invert(100%) sepia(20%) saturate(0%) hue-rotate(61deg) brightness(1000%) contrast(100%);
+    height: auto;
+    width: 10vw;
+    visibility: hidden;
+}
+
+#atomtext{
+    font-size: 4.5vw;
+    position: relative;
+    left: 5vw;
+}
+
+#preframe{
+    background-color: rgb(37, 37, 37);
+    height: 85vh;
+    width: 95vw;
+    position: absolute;
+    top: 11vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#startupicon{
+    filter: invert(100%) sepia(20%) saturate(0%) hue-rotate(61deg) brightness(1000%) contrast(100%);
+    width: 12vw;
+    height: auto;
+}
+
+#startuptext{
+    font-family:monospace;
+    font-size: 4.9vw;
+    font-weight: bolder;
+    color: white;
+
+}
+
+@media (min-width: 1024px) {
+    html{
+        visibility: hidden;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    html{
+        visibility: hidden;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 767px) {
+    html{
+        visibility: hidden;
+    }
+}

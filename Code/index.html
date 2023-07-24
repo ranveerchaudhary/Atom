@@ -1,1 +1,58 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <link rel = "stylesheet" href = "style.css">
+        <title>Atom</title>
+    </head>
+    <body>
+        <div id = "main">
+            <div id = "search">
+                <input id = "searchbar" placeholder = "Search">
+                <input type = "button" id = "execute" onclick = "fetchweather()">
+            </div>
+            <div id = "position">
+                <img id = "marker" src = "icons8-place-marker-64.png">
+                <h3 id = "location"></h3>
+            </div>
+            <div id = "weathericon">    
+                <img id = "mainicon" src="">
+            </div>
+            <div id = "maininfo">
+                <h3 id = "temp">
+                </h3>
+                <h3 id = "desc">
+                </h3>
+            </div>
+            <div id = "subinfo">
+                <div id = "precip">
+                    <h4 id = "preci1">precipitation</h4>
+                    <h4 id = "precip2"></h4>
+                </div>
+                <div id = "hum">
+                    <h4 id = "hum1">Humidity</h4>
+                    <h4 id = "hum2"></h4>
+                </div>
+                <div id = "wind">
+                    <h4 id = "wind1">Wind</h4>
+                    <h4 id = "wind2"></h4>
+                </div>
+                
+                <div id = "predict">
+                    <button id = "predictbutton">
+                        <h4 id = "atomtext">Atom</h4>
+                        <img id = "inbutton" src="weather-icons-dev/weather-icons-dev/production/line/svg/clear-day.svg">
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id = "preframe">
+            <h5 id = "startuptext">Search For A Location To Start</h5>
+            <img id = "startupicon" src = "weather-icons-dev\weather-icons-dev\production\line\svg\clear-day.svg">
+        </div>
+    </body>
+    <script src = "dynamic.js"></script>
+</html>
