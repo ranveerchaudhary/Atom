@@ -1,5 +1,5 @@
-# Atom  :partly_sunny:
-<h3 align = "center"><strong>Atom The Weather App Image.</strong><h3>
+<h1>Atom <img style = "width: 3vw; height: auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/clear-day.svg"></h1>
+<h3 align = "center"><strong>Atom The Weather App.</strong><h3>
 
 <div style = "text-align: center;">
   <p align="justify">Atom is an innovative and comprehensive application
