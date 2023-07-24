@@ -84,3 +84,36 @@
   &nbsp
   &nbsp
 </div>
+<br>
+<p align="justify">With its responsive and modern user interface, Atom ensures that you
+stay informed about the weather conditions in a convenient and intuitive manner.
+The design emphasizes a clean and intuitive layout, allowing users to
+navigate effortlessly and find the information they need with ease.</p>
+
+<br>
+
+### 3. Next Day Weather Prediction :receipt:
+
+<p align = "justify"> Atom goes beyond the standard weather apps by offering a unique feature to
+calculate the weather for the next day. This feature enables users to plan their activities
+and make informed decisions based on the upcoming weather conditions. The initial plan was to incorporate time-series analysis however due to API constraints, the current implementation involves SMA.</p>
+<!--
+<div align = "center" style = "display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/cloudy.gif">
+  &nbsp
+  &nbsp
+  <img height = "480vh" width = "auto" src = "https://github.com/ranveerchaudhary/Atom/blob/main/gar/sunny.gif">
+  &nbsp
+  &nbsp
+</div>
+-->
+<br>
+
+## The Engine :gear:
+
+### 1. Code :computer:</a>
+<p align = "justify">The main forces behind Atom are vanilla HTML, CSS & JavaScript with custom weather widgets (courtesy to <a href = "https://bas.dev/">Bas</a>). HTML is a versatile language that can be used to create a wide range of different web pages, from simple static pages to complex interactive web applications. It is designed to be easy to learn and use, and there are many resources available online to help beginners get started with HTML.  CSS, or Cascading Style Sheets, is a style sheet language used to describe the presentation of HTML (or XML) documents. In other words, while HTML is used to define the structure and content of a web page, CSS is used to define how that content should be displayed. JavaScript is a high-level programming language that is primarily used to create interactive and dynamic web pages. It is often referred to as a client-side language because it is executed on the client's web browser rather than on the web server.</p>
+
+<br>
+
+### 2. Frameworks :mechanical_arm: 
