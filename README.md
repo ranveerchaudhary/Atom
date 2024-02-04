@@ -146,4 +146,8 @@ Don't forget to give the project a star! Thanks again!
 
 <h2 id = "contact">Contact :mailbox_with_mail:</h2>
 
-Email: <a href = "mailto:ranveerchaudhary1000+github@gmail.com">ranveerchaudhary1000+github@gmail.com</a>
+Email: <a href = "mailto:ranveerchaudhary1000+github@gmail.com" target = "_blank">ranveerchaudhary1000+github@gmail.com</a>
+
+Portfolio Website: <a href = "https://ranveerchaudhary.github.io" target = "_blank">https://ranveerchaudhary.github.io</a>
+
+Linkedin: <a href = "https://www.linkedin.com/in/ranveerchaudhary1" target = "_blank">https://www.linkedin.com/in/ranveerchaudhary1</a>
